@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+reportlab>=4.0
+pytest>=8.0
+pytest-cov>=5.0
+# installs this project (src/campus_energy) so `python -m campus_energy.main` works
+-e .

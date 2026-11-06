@@ -1,0 +1,17 @@
+timestamp,building_id,building_name,interval_hours,average_power_kw,energy_kwh
+2026-10-01 09:00:00,B001,Academic Block,1,12.5,12.5
+2026-10-01 10:00:00,B001,Academic Block,1,13.2,13.2
+2026-10-01 09:00:00,B002,Electronics Laboratory,1,8.4,8.4
+2026-10-01 10:00:00,B002,Electronics Laboratory,0.5,9.0,4.5
+2026-10-01 10:00:00,B001,Academic Block,1,13.2,13.2
+,B001,Academic Block,1,11.0,11.0
+31-10-2026 9am,B003,Computer Laboratory,1,20.0,20.0
+2026-10-01 11:00:00,,Computer Laboratory,1,20.0,20.0
+2026-10-01 11:00:00,B003,Computer Laboratory,1,-4.0,-4.0
+2026-10-01 12:00:00,B003,Computer Laboratory,1,abc,20.0
+2026-10-01 13:00:00,B003,Computer Laboratory,1,inf,inf
+2026-10-01 14:00:00,B003,Computer Laboratory,0,20.0,20.0
+2026-10-01 15:00:00,B003,Computer Laboratory,1,20.0,35.0
+2026-10-01 16:00:00,B004,Central Library,1,,
+2026-10-01 17:00:00,B004,Library Annex,1,6.0,6.0
+2026-10-01 16:00:00,B004,Central Library,1,7.1,7.1

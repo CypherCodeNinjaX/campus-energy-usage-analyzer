@@ -1,0 +1,23 @@
+........................................................................ [ 98%]
+.                                                                        [100%]
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.3-final-0 ________________
+
+Name                                     Stmts   Miss  Cover
+------------------------------------------------------------
+src/campus_energy/__init__.py                1      0   100%
+src/campus_energy/analytics.py             125     12    90%
+src/campus_energy/anomaly_detection.py      74      1    99%
+src/campus_energy/config.py                 33      0   100%
+src/campus_energy/cost_calculator.py        38      1    97%
+src/campus_energy/dashboard.py             815    172    79%
+src/campus_energy/data_loader.py            51      3    94%
+src/campus_energy/main.py                   17     17     0%
+src/campus_energy/models.py                118     14    88%
+src/campus_energy/report_generator.py       82      3    96%
+src/campus_energy/simulator.py              62      2    97%
+src/campus_energy/validation.py             91      0   100%
+src/campus_energy/visualizations.py        158      6    96%
+------------------------------------------------------------
+TOTAL                                     1665    231    86%
+73 passed in 15.04s
