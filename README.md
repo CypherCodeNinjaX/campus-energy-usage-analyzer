@@ -134,7 +134,7 @@ Results on the bundled synthetic data: 62,035.5 kWh total, 2,067.8 kWh/day, 242.
 
 ## Project Report
 
-[`docs/Campus_Energy_Usage_Analyzer_Report_C1.pdf`](docs/Campus_Energy_Usage_Analyzer_Report.pdf) — 10-page A4 report with fillable cover fields. Rebuild it (re-runs the tests and recomputes every number): `python scripts/build_report.py`.
+[`Campus_Energy_Usage_Analyzer_Report_C1.pdf`](docs/Campus_Energy_Usage_Analyzer_Report.pdf) — 10-page A4 report with fillable cover fields. Rebuild it (re-runs the tests and recomputes every number): `python scripts/build_report.py`.
 
 More docs: [User Guide](docs/User_Guide.md) · [Methodology](docs/Methodology.md) · [Viva Preparation](docs/Viva_Preparation.md)
 
